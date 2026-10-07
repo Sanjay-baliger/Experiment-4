@@ -1,2 +1,6 @@
 This is the original file.
+HEAD
 Remote developer added this file.
+
+Local developer added this line.
+f5d7001 (Local developer update)
